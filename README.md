@@ -32,6 +32,6 @@ Some of the code solutions (mainly simplifications) are inspired by [Eric Boutei
 | 20 | [Trench Map](https://adventofcode.com/2021/day/20) | [part 1](./Day20/star1.py) | [part 2](./Day20/star2.py) |
 | 21 | [Dirac Dice](https://adventofcode.com/2021/day/21) | [part 1](./Day21/star1.py) | [part 2](./Day21/star2.py) |
 | 22 | [Reactor Reboot](https://adventofcode.com/2021/day/22) | [part 1](./Day22/star1.py) | [part 2](./Day22/star2.py) |
-| 23 | [Amphipod](https://adventofcode.com/2021/day/23) | [part 1](./Day23/star1.py) | [part 2](./Day23/star2.py) |
+| 23 | [Amphipod](https://adventofcode.com/2021/day/23) | [part 1](./Day23/README.md) | [part 2](./Day23/README.md) |
 | 24 | [Arithmetic Logic Unit](https://adventofcode.com/2021/day/24) | [part 1](./Day24/star1.py) | [part 2](./Day24/star2.py) |
 | 25 | [Sea Cucumber](https://adventofcode.com/2021/day/25) | [part 1](./Day25/star1.py) | [part 2](./Day25/star2.py) |
